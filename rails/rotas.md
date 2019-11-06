@@ -53,6 +53,8 @@ Nós adicionamos a linha root `posts#index`, que diz ao Rails que ao acessarmos 
 
 ### E quando acessamos no navegador agora...
 
+Acessando a url sem o `/post` no final, vamos ver a tela abaixo!
+
 No terminal digite o comando abaixo para iniciar a aplicação, caso esteja rodando já, lembre de parar, teclando CTRL+C e iniciando de novo:
 
 ```sh

@@ -1,4 +1,12 @@
-# Vamos começar a criar nosso blog?
+# Vamos começar a criar nosso blog Rails?
+
+No terminal, garanta que você está na pasta do projeto `railsgirls` com o comando:
+
+```sh
+cd railsgirls
+pwd
+> /projects/railsgirls
+```
 
 No terminal, escreva o comando abaixo:
 

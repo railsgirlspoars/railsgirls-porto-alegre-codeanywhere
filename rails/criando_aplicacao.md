@@ -1,4 +1,4 @@
-# Criando a aplicação
+# Seu primeiro projeto Rails
 
 > Essa parte do tutorial é baseada no tutorial já criado para o evento: [http://www.maujor.com/railsgirlsguide/app.php](http://www.maujor.com/railsgirlsguide/app.php)
 
@@ -51,6 +51,10 @@ Esse comando vai dizer para o Rails que queremos que nossa aplicação inicie, o
 Vamos ver o que o já temos?
 
 No navegador, acesse a segunda URL que aparece nas informações do container do codeanywhere, deve ser algo parecido com isso:
+
+```sh
+http(s)://railsgirls-tatielibento640700.codeanyapp.com
+```
 
 ![URL aplicação](../images/rails/url.png)
 
