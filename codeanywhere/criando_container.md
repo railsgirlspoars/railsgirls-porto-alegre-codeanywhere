@@ -1,7 +1,3 @@
-# Vamos aos nossos primeiros passo
-Incialmente caso você nunca tenha mexido no codeanywhere essa será sua primeira tela.
-![Container](../images/codeanywhere/tela_inicial_code.png)
-
 # Criando o nosso container <3
 
 Na janela do Connection Wizard, dê o nome "railsgirls" a seu projeto e use a caixa de busca (search stack) para pesquisar por *ruby*.
