@@ -120,7 +120,7 @@ def publicar
 
 ### Com o método criado, vamos criar o link!
 
-Para excluir e atualizar, devemos criar um link, ou seja, uma rota nova. Você lembra do `routes.rb` (pasta _config/posts_)?
+Para excluir e atualizar, devemos criar um link, ou seja, uma rota nova. Você lembra do `routes.rb` (pasta _config)?
 
 Vamos adiconar a linha abaixo, pode ser bem abaixo de `resources :posts`
 
